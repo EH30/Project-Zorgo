@@ -1,0 +1,62 @@
+##################################
+# Educational purpose only #
+################################# #
+# I'm not responsible for your actions #
+##################################
+
+SUBSCRIBE: https://www.youtube.com/channel/UCKAmv8p_TRvUNrJlfiB8qBQ
+
+ 
+
+Project Zorgo Hacking Group is Fake I Just got an Idea from Project Zorgo 
+
+I Tried To make There Fake Hacking tool into Real Yes My Tool Is Real
+
+I Don't make Fake tools
+
+My tool Works Best On Kali Linux and Parrot OS
+
+
+I recommend You Use My Tool on Kali Linux 
+
+Download Kali Linux: https://www.kali.org/downloads/
+
+
+Kali Linux Is Not A Virus Ok 
+
+
+
+You need To Install:
+
+
+
+Metasploit # Metasploit is a Virus but It wont harm you're device unless you Want to harm you're device 
+
+cat
+
+unzip
+
+perl
+
+python
+
+
+
+git clone https://github.com/EH30/Project-Zorgo
+
+cd Project-Zorgo
+
+chmod +X zorgo.sh
+
+./zorgo.sh
+
+
+
+
+If You Get An Error or Something Like that type: chmod a+rwx zorgo.sh
+
+
+
+
+
+SUBSCRIBE: https://www.youtube.com/channel/UCKAmv8p_TRvUNrJlfiB8qBQ
